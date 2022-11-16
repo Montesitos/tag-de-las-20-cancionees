@@ -1,0 +1,25 @@
+.titulo1{
+    background-color: rgb(21, 22, 21);
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik Bubbles', cursive;
+    
+}
+.titulo2{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+   
+}
+.contenedor{
+display: flex;
+justify-content: center;
+}
+button{
+    background-color:red ;
+    color: black;
+}
+.titulo3{
+    display: flex;
+    justify-content: center;
+}
