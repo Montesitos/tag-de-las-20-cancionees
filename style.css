@@ -23,3 +23,30 @@ button{
     display: flex;
     justify-content: center;
 }
+thead{
+    color: white;
+    background-color: black;
+}
+body{
+    color: white;
+    background-color: black;
+}
+.table td{
+    text-align: center;
+}
+.table th:hover{
+    color: blue;
+    background-color: aqua;
+}
+.table tr{
+    color:red;
+    background-color: azure;
+    font-family:cursive;
+}
+.caption{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.table td:hover{
+    color: aquamarine;
+    background-color:black;
+}
